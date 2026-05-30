@@ -3,13 +3,12 @@ import re
 import time
 from urllib.parse import urlparse
 from playwright.sync_api import sync_playwright
+import yt_dlp
 
 # === CONFIGURATION ===
-# Set to False if you want only raw URLs (2 lines per channel).
-# Set to True if you want the extra VLC/IPTV player compatibility headers.
 INCLUDE_HEADERS = False
 
-# List of desired channels to output
+# List of desired channels to output from TVPass
 CHANNELS_TO_FIND = [
     "animal-planet-us-east",
     "cartoon-network-usa-eastern-feed",
@@ -93,13 +92,20 @@ CHANNELS_TO_FIND = [
     "ion-eastern-feed"
 ]
 
+# YouTube channels to extract (Display Name, Permanent Live URL)
+YOUTUBE_CHANNELS = [
+    ("Kapamilya Online Live", "https://www.youtube.com/@ABSCBNentertainment/live"),
+    ("GMA Kapuso Stream", "https://www.youtube.com/@GMANetwork/live"),
+    ("ANC Live", "https://www.youtube.com/@ancalerts/live"),
+    ("TeleRadyo Serbisyo (DZMM)", "https://www.youtube.com/@TeleRadyoSerbisyo/live")
+]
+
 def clean_string(s):
-    # Keep only alphanumeric lowercase characters
     return re.sub(r'[^a-z0-9]', '', s.lower())
 
 def get_permanent_channels(filename):
     """
-    Parses the existing M3U file to preserve any permanent non-TVPass channels
+    Parses the existing M3U file to preserve any permanent non-TVPass / non-YouTube channels
     """
     permanent_blocks = []
     if not os.path.exists(filename):
@@ -135,14 +141,14 @@ def get_permanent_channels(filename):
                     break
                 j += 1
             
-            # Check if this channel belongs to TVPass/thetvapp/Pluto
+            # Check if this channel belongs to TVPass, thetvapp, Pluto, or YouTube
             is_dynamic = False
             if url_line:
                 url_lower = url_line.lower()
-                if "thetvapp.to" in url_lower or "tvpass.org" in url_lower or "jmp2.uk" in url_lower:
+                if any(x in url_lower for x in ["thetvapp.to", "tvpass.org", "jmp2.uk", "googlevideo.com", "youtube.com"]):
                     is_dynamic = True
             
-            # If it is a permanent channel, preserve its block
+            # Preserve permanent channels
             if not is_dynamic:
                 permanent_blocks.extend(block_lines)
             
@@ -153,16 +159,35 @@ def get_permanent_channels(filename):
     print(f"Preserved {len(permanent_blocks) // 2} permanent channels from previous file.")
     return permanent_blocks
 
+def get_youtube_stream_url(url):
+    """
+    Extracts the active .m3u8 stream link from a YouTube live channel URL
+    """
+    try:
+        ydl_opts = {
+            'quiet': True,
+            'no_warnings': True,
+            'format': 'best',
+            'skip_download': True,
+        }
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(url, download=False)
+            return info.get('url')
+    except Exception as e:
+        print(f"   [Error] YouTube extraction failed: {e}")
+        return None
+
 def main():
     # Detects if running on GitHub Actions or locally in PyCharm
     is_github = os.getenv("GITHUB_ACTIONS") == "true"
     m3u_lines = ["#EXTM3U"]
     output_filename = "exclusive.m3u"
     
-    # Step 1: Read existing playlist and load any non-expiring/permanent channels first
+    # Step 1: Read existing playlist and load any non-expiring permanent channels first
     permanent_channels = get_permanent_channels(output_filename)
     m3u_lines.extend(permanent_channels)
     
+    # Step 2: Extract TVPass channels using Playwright
     with sync_playwright() as playwright:
         print("Launching browser...")
         try:
@@ -233,7 +258,6 @@ def main():
         for idx, (display_name, target_url) in enumerate(matched_channels):
             print(f"[{idx+1}/{len(matched_channels)}] Loading: {display_name}...")
             
-            # Isolated session per channel page
             page = context.new_page()
             captured_url = None
             
@@ -241,7 +265,6 @@ def main():
                 nonlocal captured_url
                 url = request.url
                 parsed = urlparse(url)
-                # Strict path matching: only capture direct .m3u8 urls, excluding pings
                 if parsed.path.endswith(".m3u8") and parsed.query and "ping.gif" not in url:
                     captured_url = url
 
@@ -249,8 +272,6 @@ def main():
             
             try:
                 page.goto(target_url, wait_until="domcontentloaded", timeout=20000)
-                
-                # Check for the link
                 for _ in range(16):
                     if captured_url:
                         break
@@ -273,6 +294,18 @@ def main():
                     print("   [Tip] Solve any Cloudflare verification challenge manually if it appears.")
                 
         browser.close()
+
+    # Step 3: Extract YouTube Live Channels using yt-dlp
+    print("\nProcessing YouTube Live channels...")
+    for display_name, live_url in YOUTUBE_CHANNELS:
+        print(f"Extracting live link for {display_name}...")
+        captured_yt_url = get_youtube_stream_url(live_url)
+        if captured_yt_url:
+            m3u_lines.append(f"#EXTINF:-1,{display_name}")
+            m3u_lines.append(captured_yt_url)
+            print("   [Success] Captured active stream link.")
+        else:
+            print("   [Failed] Could not capture stream link.")
         
     # Write to final combined M3U file
     with open(output_filename, "w", encoding="utf-8") as f:
