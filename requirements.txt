@@ -1,2 +1,2 @@
 playwright==1.49.1
-yt-dlp
+yt-dlp==2026.05.22
