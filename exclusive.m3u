@@ -1,145 +1,485 @@
 #EXTM3U
-#EXTINF:-1 channel-id="animal-planet" tvg-id="animal-planet" tvg-chno="4038" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/animal-planet.png" group-title="Documentary & Nature",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 channel-id="discovery-channel" tvg-id="discovery-channel" tvg-chno="4036" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/discovery-channel.png" group-title="Documentary & Nature",Discovery
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 channel-id="national-geographic" tvg-id="national-geographic" tvg-chno="4037" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/national-geographic.png" group-title="Documentary & Nature",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 channel-id="wild-earth" tvg-id="wild-earth" tvg-chno="4039" tvg-name="Wild Earth" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/wild-earth.png" group-title="Documentary & Nature",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-name="Action TV" tvg-logo="https://siliconweb.com" group-title="Entertainment",Action TV Live
-https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_480p/chunks.m3u8
-#EXTINF:-1 tvg-name="Asian Crush" tvg-logo="https://siliconweb.com" group-title="Entertainment",Asian Crush
-https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 channel-id="comedy-central" tvg-id="comedy-central" tvg-chno="4034" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/comedy-central.png" group-title="Entertainment",Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-name="Filmzie" group-title="Entertainment",Filmzie
-https://3bd25beecec04b169f33659a7739c10b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Filmzie/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=entertainment&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_content_id=3282&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=18b277f3-8dee-4dd5-9ef7-3f1ff528b739&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=592
-#EXTINF:-1 channel-id="go-usa" tvg-id="go-usa" tvg-chno="4041" tvg-name="GoUsa" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/go-usa.png" group-title="Entertainment",GoUsa
-https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
-#EXTINF:-1 channel-id="ion-plus" tvg-id="ion-plus" tvg-chno="4030" tvg-name="Ion Plus" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/ion-plus.png" group-title="Entertainment",Ion Plus
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-#EXTINF:-1 tvg-name="LG Channels Showcase" group-title="Entertainment",LG Channels Showcase
-https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c4-amgplt0023/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 channel-id="lg1" tvg-id="lg1" tvg-chno="4028" tvg-name="LG1" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/lg1.png" group-title="Entertainment",LG1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 channel-id="lg1-spotlight" tvg-id="lg1-spotlight" tvg-chno="4031" tvg-name="LG1 Spotlight" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/lg1-spotlight.png" group-title="Entertainment",LG1 Spotlight
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-name="MovieSphere Au" tvg-logo="https://siliconweb.com" group-title="Entertainment",MovieSphere Au
-https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/cb573d1a786c618a84cb3963cef34282847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae75e4d8b3aa2b1014d922943fa83439fd501b2d2d25b8317d322f74795c6f7dfd54287e4015293728aecdb5f581fa9a83bf8f955bfd6937929957f2d556c3a8cc1b2cd3ef702da21269cded8b6648561a652b586125b9601964b85258f2b8900b3f80cdac54137e9224bc6940c1b4883e0ae9ee9343ffd50f2b1e8c4726fdb8d7c9fcdc11fbb010e1aea8dfb068bd51c98b526c5bb6f5d1bc59350d1fbd8e7b9e0dc1ece64a2a285f4ce8bac52cd46a6243607d9c3a04746888478004f4445e2b754ca8fd55f0aaf2eec8f73db0912b5d78acc8a406b8a282c53e664d64c162ce2002c2db563a9c17c5b80285cd16e7de30e61c902dda83cf9a2ece00410bcca8817ac38a1e65c92be29815911754ef3fe2554400c5ad5ed6d027939e04df6dcc7e4385854b4b99db0901d68470a16540d99eba825c8d98e7a4b64b4394c577d1e139913c5298e503b6700fd5e82fc4724ff454b4bc1a8305a5669ecb8928995d9c741f53293f8f4372b344e70ff5421237dd8a28249f75b1a2d23bde1a0cee80d610fe8608d19ea3d1c4e4e4df7362e4946/139/848x480_1686360/index.m3u8
+#EXTINF:-1 channel-id="star-movies-hd" tvg-id="star-movies-hd" tvg-chno="4001" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/star-movies-hd.png" group-title="Movies",Star Movies HD
+http://202.70.146.135:8000/play/a06r/index.m3u8
+#EXTINF:-1 channel-id="sony-pix-hd" tvg-id="sony-pix-hd" tvg-chno="4050" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sony-pix-hd.png" group-title="Movies",Sony Pix HD
+http://202.70.146.135:8000/play/a06p/index.m3u8
+#EXTINF:-1 channel-id="star-movies-select-hd" tvg-id="star-movies-select-hd" tvg-chno="4002" tvg-name="Star Movies Select HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/star-movies-select-hd.png" group-title="Movies",Star Movies Select HD
+http://202.70.146.135:8000/play/a06q/index.m3u8
 #EXTINF:-1 channel-id="netmax-tv" tvg-id="netmax-tv" tvg-chno="4003" tvg-name="Netmax TV" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/netmax-tv.png" group-title="Entertainment",Netmax TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/chunklist_w49954451.m3u8
-#EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment",Rakuten Viki
-https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="sbs-drama" tvg-id="sbs-drama" tvg-chno="4026" tvg-name="Sbs Drama" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sbs-drama.png" group-title="Entertainment",Sbs Drama
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-drama&channel_id=newid_008&mpf=c064f5f4-39af1962-7c36be2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-name="Sony One Dragons'" group-title="Entertainment",Sony One Dragons'
-https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony One Faves" group-title="Entertainment",Sony One Faves
-https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
-#EXTINF:-1 tvg-name="Stories by AMC" group-title="Entertainment",Stories By AMC
-https://wurlrainbowmedia.global.transmit.live/hls/697d23c286bd10f25052dc06/playlist.m3u8?wurl_channel=474&wurl_name=StoriesByAMC&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 channel-id="cartoon-network" tvg-id="cartoon-network" tvg-chno="4049" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/cartoon-network.png" group-title="Kids & Family",Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 channel-id="disney-xd" tvg-id="disney-xd" tvg-chno="4042" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/disney-xd.png" group-title="Kids & Family",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 channel-id="kartoon-channel" tvg-id="kartoon-channel" tvg-chno="4048" tvg-name="Kartoon Channel" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/kartoon-channel.png" group-title="Kids & Family",Kartoon Channel
-https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="cooking-channel" tvg-id="cooking-channel" tvg-chno="4035" tvg-name="Cooking" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/cooking-channel.png" group-title="Lifestyle & Leisure",Cooking
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
-#EXTINF:-1 channel-id="travel-channel" tvg-id="travel-channel" tvg-chno="4040" tvg-name="Travel" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/travel-channel.png" group-title="Lifestyle & Leisure",Travel
-https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
-#EXTINF:-1 channel-id="24-hour-free-movies" tvg-id="24-hour-free-movies" tvg-chno="4012" tvg-name="24 Hour Free Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/24-hour-free-movies.png" group-title="Movies",24 Hour Free Movies
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-#EXTINF:-1 tvg-id="673499" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",CINEVAULT
-https://live-manifest.production-public.tubi.io/live/15fe77d7-34df-4384-8180-8c30103139a4/playlist.m3u8
-#EXTINF:-1 channel-id="comedy-movies" tvg-id="comedy-movies" tvg-chno="4015" tvg-name="Comedy movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/comedy-movies.png" group-title="Movies",Comedy movies
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 tvg-id="400000090" tvg-logo="https://canvas-lb.tubitv.com/opts/yTUdTHkxF1KzGQ==/9d6112c8-c0fb-4179-aa34-4025c0153b14/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",Crime ThrillHer
-https://live-manifest.production-public.tubi.io/live/2bd0df23-4a14-46ca-b598-0e7895ebbeee/playlist.m3u8
-#EXTINF:-1 channel-id="drama-movies" tvg-id="drama-movies" tvg-chno="4020" tvg-name="Drama Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/drama-movies.png" group-title="Movies",Drama Movies
-https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8
-#EXTINF:-1 tvg-name="FilmRise Free Movies" group-title="Movies",FilmRise Free Movies
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992272&ads.xumo_streamId=99992272&ads.channelId=99992272&ads.ad_tag_id=10508&ads.csid=lgchannels_us_filmrisefreemovies_ssai&ads.channelName=filmrisefreemovies_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-5&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 channel-id="hbo" tvg-id="hbo" tvg-chno="4046" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/hbo.png" group-title="Movies",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 channel-id="hbo2" tvg-id="hbo2" tvg-chno="4047" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/hbo2.png" group-title="Movies",HBO2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-id="400000104" tvg-logo="https://canvas-lb.tubitv.com/opts/xP0esskgVLQXMA==/2733aed8-2c07-4221-9669-061ef85c0df0/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",Hersphere
-https://live-manifest.production-public.tubi.io/live/33df563a-88ee-46d9-9cc1-3459f2e90710/playlist.m3u8
-#EXTINF:-1 tvg-name="Hi-Yah!" group-title="Movies",Hi-Yah!
-https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=99992284a&ads.xumo_streamId=99992284&ads.channelId=99992284&ads.csid=lgchannels_us_hiyah_ssai&ads.caid=HiYah&ads.channelName=hiyah_us&ads._fw_coppa=0&ads.xumo_contentName=HiYah&ads.xumo_contentId=236&ads._fw_content_rating=TV-14&ads.xumo_providerName=HiYah&ads.xumo_providerId=236&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movie,Movies,Action,FF,Drama,GD&ads._fw_content_language=en&ads.xumo_imdb_genre=Action&ads.amznappId=51a04667c92e45fd94bae191cb9c6e16&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]
-#EXTINF:-1 channel-id="icon-film" tvg-id="icon-film" tvg-chno="4016" tvg-name="Icon Film" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/icon-film.png" group-title="Movies",Icon Film
-https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
-#EXTINF:-1 channel-id="lg1-film" tvg-id="lg1-film" tvg-chno="4029" tvg-name="LG1 Film" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/lg1-film.png" group-title="Movies",LG1 Film
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-name="Lifetime Movie Favorites" group-title="Movies",Lifetime Movie Favorites
-https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetworks_holidaymoviefavorites_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=999&wurl_name=HolidayMovieFavoritesbyLifetime&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 channel-id="mix-hollywood" tvg-id="mix-hollywood" tvg-chno="4011" tvg-name="MixHollywood" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/mix-hollywood.png" group-title="Movies",MixHollywood
-https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 channel-id="toonami-aftermath-movies" tvg-id="toonami-aftermath-movies" tvg-chno="4004" tvg-name="Toonami Aftermath Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/toonami-aftermath-movies.png" group-title="Movies",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 channel-id="moviesphere-uk" tvg-id="moviesphere-uk" tvg-chno="4005" tvg-name="MovieSphere UK" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/moviesphere-uk.png" group-title="Movies",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/720p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="MyTime Movie Network" group-title="Movies",MyTime Movie Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 channel-id="new-kmovies" tvg-id="new-kmovies" tvg-chno="4027" tvg-name="New Kmovies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/new-kmovies.png" group-title="Movies",New Kmovies
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 channel-id="nextflix-action" tvg-id="nextflix-action" tvg-chno="4017" tvg-name="Nextflix Action" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/nextflix-action.png" group-title="Movies",Nextflix Action
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 tvg-id="400000006" tvg-logo="https://canvas-lb.tubitv.com/opts/z5KrO42O-7nU4A==/9d4070e4-10ea-42f7-8598-d56da77c07e0/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",OuterSphere
-https://live-manifest.production-public.tubi.io/live/ab6d635a-6d89-4228-93a6-c3a98980450c/playlist.m3u8
-#EXTINF:-1 channel-id="popflix" tvg-id="popflix" tvg-chno="4025" tvg-name="Popflix" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/popflix.png" group-title="Movies",Popflix
-https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_Popflix/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV" group-title="Movies",Rakuten TV
-https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=5987&ads.rtv_channel_name=top-movies-rakuten-tv_uk&ads.rtv_content_id=5987&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=711327d1-a6f9-4ead-86e4-a7f79f745fa0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5987&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:-1 tvg-name="Rakuten TV - Action" group-title="Movies",Rakuten TV - Action Movies
-https://action-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6065&ads.rtv_channel_name=action-rakuten-tv_uk&ads.rtv_content_id=6065&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=ccdc67c1-95db-42bd-800e-00e47fe59ac2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6065&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:-1 tvg-name="Rakuten TV - Comedy" group-title="Movies",Rakuten TV - Comedy Movies
-https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6181&ads.rtv_channel_name=comedy-rakuten-tv_uk&ads.rtv_content_id=6181&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=373e1ef3-0deb-492e-a945-538ab72a1dcc&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6181&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:-1 tvg-name="Rakuten TV - Drama" group-title="Movies",Rakuten TV - Drama Movies
-https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6093&ads.rtv_channel_name=drama-rakuten-tv_uk&ads.rtv_content_id=6093&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=c7804f2a-8e39-4625-9800-1f7b9ffed2c6&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6093&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:-1 tvg-name="Rakuten TV - Romance" group-title="Movies",Rakuten TV - Romance Movies
-https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6194&ads.rtv_channel_name=romance-rakuten-tv_uk&ads.rtv_content_id=6194&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=9475d944-0bed-49a9-8063-a2b361eb5ce7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6194&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:-1 tvg-name="Rakuten TV - Sci-fi" group-title="Movies",Rakuten TV - Sci-fi
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6241&ads.rtv_channel_name=sci-fi-rakuten-tv_uk&ads.rtv_content_id=6241&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=bc37b504-d2c1-4852-a19b-44b984d8df6e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6241&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:-1 tvg-name="Rakuten TV - Thrillers" group-title="Movies",Rakuten TV - Thrillers
-https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6482&ads.rtv_channel_name=thriller-rakuten-tv_uk&ads.rtv_content_id=6482&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=e31ac232-5614-4988-a4e8-833deadfd6cd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6482&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:-1 channel-id="romance-movies" tvg-id="romance-movies" tvg-chno="4032" tvg-name="Romance Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/romance-movies.png" group-title="Movies",Romance Movies
-https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/812b4d9e-f255-46f1-9071-decd622f8e1b/4.m3u8
-#EXTINF:-1 channel-id="sci-fi" tvg-id="sci-fi" tvg-chno="4022" tvg-name="Sci-fi" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sci-fi.png" group-title="Movies",Sci-fi
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8
 #EXTINF:-1 channel-id="sony-one-action-hits-uk" tvg-id="sony-one-action-hits-uk" tvg-chno="4006" tvg-name="Sony One Action Hits UK" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sony-one-action-hits-uk.png" group-title="Movies",Sony One Action Hits UK
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
 #EXTINF:-1 channel-id="sony-one-comedy-hits-uk" tvg-id="sony-one-comedy-hits-uk" tvg-chno="4007" tvg-name="Sony One Comedy Hits UK" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sony-one-comedy-hits-uk.png" group-title="Movies",Sony One Comedy Hits UK
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 channel-id="sony-pix-hd" tvg-id="sony-pix-hd" tvg-chno="4050" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sony-pix-hd.png" group-title="Movies",Sony Pix HD
-http://202.70.146.135:8000/play/a06p/index.m3u8
-#EXTINF:-1 channel-id="star-movies-hd" tvg-id="star-movies-hd" tvg-chno="4001" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/star-movies-hd.png" group-title="Movies",Star Movies HD
-http://202.70.146.135:8000/play/a06r/index.m3u8
-#EXTINF:-1 channel-id="star-movies-select-hd" tvg-id="star-movies-select-hd" tvg-chno="4002" tvg-name="Star Movies Select HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/star-movies-select-hd.png" group-title="Movies",Star Movies Select HD
-http://202.70.146.135:8000/play/a06q/index.m3u8
 #EXTINF:-1 channel-id="starz-hd" tvg-id="starz-hd" tvg-chno="4009" tvg-name="StarZ HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/starz-hd.png" group-title="Movies",StarZ HD
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 channel-id="starz-cinema" tvg-id="starz-cinema" tvg-chno="4010" tvg-name="StarZ" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/starz-cinema.png" group-title="Movies",StarZ
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:-1 channel-id="thriller" tvg-id="thriller" tvg-chno="4021" tvg-name="Thriller" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/thriller.png" group-title="Movies",Thriller
-https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
-#EXTINF:-1 channel-id="thrillers" tvg-id="thrillers" tvg-chno="4018" tvg-name="Thrillers" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/thrillers.png" group-title="Movies",Thrillers
-https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/12886224-4a4c-4671-9894-f33d4197ac53/4.m3u8
-#EXTINF:-1 channel-id="toonami-aftermath-movies" tvg-id="toonami-aftermath-movies" tvg-chno="4004" tvg-name="Toonami Aftermath Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/toonami-aftermath-movies.png" group-title="Movies",Toonami Aftermath Movies
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 channel-id="top-movies" tvg-id="top-movies" tvg-chno="4024" tvg-name="Top Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/top-movies.png" group-title="Movies",Top Movies
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 channel-id="universal-action" tvg-id="universal-action" tvg-chno="4023" tvg-name="Universal Action" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/universal-action.png" group-title="Movies",Universal Action
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
-#EXTINF:-1 channel-id="universal-monsters" tvg-id="universal-monsters" tvg-chno="4019" tvg-name="Universal Monsters" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/universal-monsters.png" group-title="Movies",Universal Monsters
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
+#EXTINF:-1 channel-id="mix-hollywood" tvg-id="mix-hollywood" tvg-chno="4011" tvg-name="MixHollywood" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/mix-hollywood.png" group-title="Movies",MixHollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 channel-id="24-hour-free-movies" tvg-id="24-hour-free-movies" tvg-chno="4012" tvg-name="24 Hour Free Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/24-hour-free-movies.png" group-title="Movies",24 Hour Free Movies
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 #EXTINF:-1 channel-id="universal-movies" tvg-id="universal-movies" tvg-chno="4014" tvg-name="Universal movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/universal-movies.png" group-title="Movies",Universal movies
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
-#EXTINF:-1 tvg-name="Xumo Free Action Movies" group-title="Movies",Xumo Free Action Movies
-https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992286&ads.xumo_streamId=99992286&ads.channelId=99992286&ads.csid=lgchannels_us_xumofreeactionmovies_ssai&ads.caid=XumoFreeActionMovies&ads.channelName=xumofreeactionmovies_us&ads._fw_coppa=0&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads._fw_content_rating=tv-14&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movies&ads._fw_content_language=en&ads.xumo_imdb_genre=Action&ads.amznappId=51a04667c92e45fd94bae191cb9c6e16&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]
+#EXTINF:-1 channel-id="comedy-movies" tvg-id="comedy-movies" tvg-chno="4015" tvg-name="Comedy movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/comedy-movies.png" group-title="Movies",Comedy movies
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 channel-id="icon-film" tvg-id="icon-film" tvg-chno="4016" tvg-name="Icon Film" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/icon-film.png" group-title="Movies",Icon Film
+https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
+#EXTINF:-1 channel-id="nextflix-action" tvg-id="nextflix-action" tvg-chno="4017" tvg-name="Nextflix Action" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/nextflix-action.png" group-title="Movies",Nextflix Action
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 channel-id="thrillers" tvg-id="thrillers" tvg-chno="4018" tvg-name="Thrillers" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/thrillers.png" group-title="Movies",Thrillers
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/12886224-4a4c-4671-9894-f33d4197ac53/4.m3u8
+#EXTINF:-1 channel-id="universal-monsters" tvg-id="universal-monsters" tvg-chno="4019" tvg-name="Universal Monsters" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/universal-monsters.png" group-title="Movies",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
+#EXTINF:-1 channel-id="drama-movies" tvg-id="drama-movies" tvg-chno="4020" tvg-name="Drama Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/drama-movies.png" group-title="Movies",Drama Movies
+https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8
+#EXTINF:-1 channel-id="thriller" tvg-id="thriller" tvg-chno="4021" tvg-name="Thriller" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/thriller.png" group-title="Movies",Thriller
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+#EXTINF:-1 channel-id="sci-fi" tvg-id="sci-fi" tvg-chno="4022" tvg-name="Sci-fi" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sci-fi.png" group-title="Movies",Sci-fi
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8
+#EXTINF:-1 channel-id="universal-action" tvg-id="universal-action" tvg-chno="4023" tvg-name="Universal Action" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/universal-action.png" group-title="Movies",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
+#EXTINF:-1 channel-id="top-movies" tvg-id="top-movies" tvg-chno="4024" tvg-name="Top Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/top-movies.png" group-title="Movies",Top Movies
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 channel-id="popflix" tvg-id="popflix" tvg-chno="4025" tvg-name="Popflix" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/popflix.png" group-title="Movies",Popflix
+https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_Popflix/playlist.m3u8
+#EXTINF:-1 channel-id="sbs-drama" tvg-id="sbs-drama" tvg-chno="4026" tvg-name="Sbs Drama" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sbs-drama.png" group-title="Entertainment",Sbs Drama
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-drama&channel_id=newid_008&mpf=c064f5f4-39af1962-7c36be2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 channel-id="new-kmovies" tvg-id="new-kmovies" tvg-chno="4027" tvg-name="New Kmovies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/new-kmovies.png" group-title="Movies",New Kmovies
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 channel-id="lg1" tvg-id="lg1" tvg-chno="4028" tvg-name="LG1" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/lg1.png" group-title="Entertainment",LG1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 channel-id="lg1-film" tvg-id="lg1-film" tvg-chno="4029" tvg-name="LG1 Film" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/lg1-film.png" group-title="Movies",LG1 Film
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 channel-id="ion-plus" tvg-id="ion-plus" tvg-chno="4030" tvg-name="Ion Plus" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/ion-plus.png" group-title="Entertainment",Ion Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 channel-id="lg1-spotlight" tvg-id="lg1-spotlight" tvg-chno="4031" tvg-name="LG1 Spotlight" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/lg1-spotlight.png" group-title="Entertainment",LG1 Spotlight
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 channel-id="romance-movies" tvg-id="romance-movies" tvg-chno="4032" tvg-name="Romance Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/romance-movies.png" group-title="Movies",Romance Movies
+https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/812b4d9e-f255-46f1-9071-decd622f8e1b/4.m3u8
+#EXTINF:-1 channel-id="comedy-central" tvg-id="comedy-central" tvg-chno="4034" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/comedy-central.png" group-title="Entertainment",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 channel-id="cooking-channel" tvg-id="cooking-channel" tvg-chno="4035" tvg-name="Cooking" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/cooking-channel.png" group-title="Lifestyle",Cooking
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 channel-id="discovery-channel" tvg-id="discovery-channel" tvg-chno="4036" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/discovery-channel.png" group-title="Documentary",Discovery
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 channel-id="national-geographic" tvg-id="national-geographic" tvg-chno="4037" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/national-geographic.png" group-title="Documentary",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 channel-id="animal-planet" tvg-id="animal-planet" tvg-chno="4038" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/animal-planet.png" group-title="Animals + Nature",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 channel-id="wild-earth" tvg-id="wild-earth" tvg-chno="4039" tvg-name="Wild Earth" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/wild-earth.png" group-title="Animals + Nature",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 channel-id="travel-channel" tvg-id="travel-channel" tvg-chno="4040" tvg-name="Travel" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/travel-channel.png" group-title="Lifestyle",Travel
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 channel-id="go-usa" tvg-id="go-usa" tvg-chno="4041" tvg-name="GoUsa" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/go-usa.png" group-title="Entertainment",GoUsa
+https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
+#EXTINF:-1 channel-id="disney-xd" tvg-id="disney-xd" tvg-chno="4042" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/disney-xd.png" group-title="Kids",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 channel-id="espn" tvg-id="espn" tvg-chno="4043" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/espn.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 channel-id="espnu" tvg-id="espnu" tvg-chno="4044" tvg-name="ESPNU" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/espnu.png" group-title="Sports",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 channel-id="ufc" tvg-id="ufc" tvg-chno="4045" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/ufc.png" group-title="Sports",UFC
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+#EXTINF:-1 channel-id="hbo" tvg-id="hbo" tvg-chno="4046" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/hbo.png" group-title="Movies",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 channel-id="hbo2" tvg-id="hbo2" tvg-chno="4047" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/hbo2.png" group-title="Movies",HBO2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 channel-id="kartoon-channel" tvg-id="kartoon-channel" tvg-chno="4048" tvg-name="Kartoon Channel" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/kartoon-channel.png" group-title="Kids",Kartoon Channel
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="cartoon-network" tvg-id="cartoon-network" tvg-chno="4049" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/cartoon-network.png" group-title="Kids",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="400000104" tvg-logo="https://canvas-lb.tubitv.com/opts/xP0esskgVLQXMA==/2733aed8-2c07-4221-9669-061ef85c0df0/CHgQeDoFMS4xLjlAAQ==" group-title="Classic TV",Hersphere
+https://live-manifest.production-public.tubi.io/live/33df563a-88ee-46d9-9cc1-3459f2e90710/playlist.m3u8
+#EXTINF:-1 channel-id="7e202ec14b17515a8e732f662aec155d" tvg-id="7e202ec14b17515a8e732f662aec155d" tvg-chno="765" tvg-name="The Asylum" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7e202ec14b17515a8e732f662aec155d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687376542009_TheAsylum_260x147_copy.png" group-title="Dark Comedy",The Asylum
+https://jmp2.uk/rok-7e202ec14b17515a8e732f662aec155d.m3u8
+#EXTINF:-1 tvg-id="715950" tvg-logo="https://canvas-lb.tubitv.com/opts/xAQ95D6WQgEvXg==/fa937ce5-3630-46c4-bdd6-e48132ffdd50/CHgQeDoFMS4xLjlAAQ==" group-title="Movie Channels",At the Movies
+https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
+#EXTINF:-1 tvg-id="673499" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==" group-title="Movie Channels",CINEVAULT
+https://live-manifest.production-public.tubi.io/live/15fe77d7-34df-4384-8180-8c30103139a4/playlist.m3u8
+#EXTINF:-1 channel-id="6a0629e467b5502c906136dadac290a0" tvg-id="6a0629e467b5502c906136dadac290a0" tvg-chno="768" tvg-name="FilmRise Horror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774448513257_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png" group-title="Movies",FilmRise Horror
+https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8
+#EXTINF:-1 channel-id="c423f0f050355a6fb8bcf7644af61852" tvg-id="c423f0f050355a6fb8bcf7644af61852" tvg-chno="760" tvg-name="FilmRise Sci-Fi" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c423f0f050355a6fb8bcf7644af61852/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158273703_RokuChannel_FilmRiseSciFI_HUD_Logo_260x147.png" group-title="Movies",FilmRise Sci-Fi
+https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8
+#EXTINF:-1 channel-id="349e0f0840cf21b888bff327b41a2413" tvg-id="349e0f0840cf21b888bff327b41a2413" tvg-chno="746" tvg-name="Scares by Shudder" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/349e0f0840cf21b888bff327b41a2413/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734485619426_SHUD_FastChanel_Roku_Image_HUD2BillWatts_.png" group-title="Movies",Scares by Shudder
+https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8
+#EXTINF:-1 channel-id="d79c47ebb9745dc4873f24d4c9fc68ce" tvg-id="d79c47ebb9745dc4873f24d4c9fc68ce" tvg-chno="770" tvg-name="Screambox TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d79c47ebb9745dc4873f24d4c9fc68ce/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1679073875990_ScreamboxTV_Roku_HUDLogo.png" group-title="Movies",Screambox TV
+https://jmp2.uk/rok-d79c47ebb9745dc4873f24d4c9fc68ce.m3u8
+#EXTINF:-1 tvg-id="400000006" tvg-logo="https://canvas-lb.tubitv.com/opts/z5KrO42O-7nU4A==/9d4070e4-10ea-42f7-8598-d56da77c07e0/CHgQeDoFMS4xLjlAAQ==" group-title="Sci-Fi & Supernatural",OuterSphere
+https://live-manifest.production-public.tubi.io/live/ab6d635a-6d89-4228-93a6-c3a98980450c/playlist.m3u8
+#EXTINF:-1 tvg-id="400000090" tvg-logo="https://canvas-lb.tubitv.com/opts/yTUdTHkxF1KzGQ==/9d6112c8-c0fb-4179-aa34-4025c0153b14/CHgQeDoFMS4xLjlAAQ==" group-title="True Crime",Crime ThrillHer
+https://live-manifest.production-public.tubi.io/live/2bd0df23-4a14-46ca-b598-0e7895ebbeee/playlist.m3u8
+#EXTINF:-1 channel-id="fb8579bf16248ce630f42f129ed2e8d5" tvg-id="fb8579bf16248ce630f42f129ed2e8d5" tvg-chno="547" tvg-name="Acorn TV Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb8579bf16248ce630f42f129ed2e8d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761252500000_ACORNTV_MYSTERIES_hud_efefef_center_260x147_Bill_Watts.png" group-title="TV & Entertainment",Acorn TV Mysteries
+https://jmp2.uk/rok-fb8579bf16248ce630f42f129ed2e8d5.m3u8
+#EXTINF:-1 tvg-name="FilmRise Free Movies" group-title="Movies",FilmRise Free Movies
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992272&ads.xumo_streamId=99992272&ads.channelId=99992272&ads.ad_tag_id=10508&ads.csid=lgchannels_us_filmrisefreemovies_ssai&ads.channelName=filmrisefreemovies_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-5&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-name="Stories by AMC" group-title="Drama",Stories By AMC
+https://wurlrainbowmedia.global.transmit.live/hls/697d23c286bd10f25052dc06/playlist.m3u8?wurl_channel=474&wurl_name=StoriesByAMC&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:-1 tvg-name="Xumo Free Action Movies" group-title="Action",Xumo Free Action Movies
+https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992286&ads.xumo_streamId=99992286&ads.channelId=99992286&ads.csid=lgchannels_us_xumofreeactionmovies_ssai&ads.caid=XumoFreeActionMovies&ads.channelName=xumofreeactionmovies_us&ads._fw_coppa=0&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads._fw_content_rating=tv-14&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movies&ads._fw_content_language=en&ads.xumo_imdb_genre=Action&ads.amznappId=51a04667c92e45fd94bae191cb9c6e16&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]
+#EXTINF:-1 tvg-name="Hi-Yah!" group-title="Action",Hi-Yah!
+https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=99992284a&ads.xumo_streamId=99992284&ads.channelId=99992284&ads.csid=lgchannels_us_hiyah_ssai&ads.caid=HiYah&ads.channelName=hiyah_us&ads._fw_coppa=0&ads.xumo_contentName=HiYah&ads.xumo_contentId=236&ads._fw_content_rating=TV-14&ads.xumo_providerName=HiYah&ads.xumo_providerId=236&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movie,Movies,Action,FF,Drama,GD&ads._fw_content_language=en&ads.xumo_imdb_genre=Action&ads.amznappId=51a04667c92e45fd94bae191cb9c6e16&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]
+#EXTINF:-1 tvg-name="Lifetime Movie Favorites" group-title="Movies",Lifetime Movie Favorites
+https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetworks_holidaymoviefavorites_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=999&wurl_name=HolidayMovieFavoritesbyLifetime&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:-1 tvg-name="MyTime Movie Network" group-title="Movies",MyTime Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-name="LG Channels Showcase" group-title="Entertainment",LG Channels Showcase
+https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c4-amgplt0023/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-name="Gravitas Movies" group-title="Movies",Gravitas Movies
+https://jmp2.uk/stvp-USBD700011RE
+#EXTINF:-1 tvg-name="Rakuten Viki" group-title="Drama",Rakuten Viki (EU)
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV" group-title="Movies",Rakuten TV
+https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=5987&ads.rtv_channel_name=top-movies-rakuten-tv_uk&ads.rtv_content_id=5987&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=711327d1-a6f9-4ead-86e4-a7f79f745fa0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5987&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1 tvg-name="Rakuten TV - Action" group-title="Action",Rakuten TV - Action Movies
+https://action-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6065&ads.rtv_channel_name=action-rakuten-tv_uk&ads.rtv_content_id=6065&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=ccdc67c1-95db-42bd-800e-00e47fe59ac2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6065&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1 tvg-name="Rakuten TV - Comedy" group-title="Comedy",Rakuten TV - Comedy Movies
+https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6181&ads.rtv_channel_name=comedy-rakuten-tv_uk&ads.rtv_content_id=6181&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=373e1ef3-0deb-492e-a945-538ab72a1dcc&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6181&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1 tvg-name="Rakuten TV - Drama" group-title="Drama",Rakuten TV - Drama Movies
+https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6093&ads.rtv_channel_name=drama-rakuten-tv_uk&ads.rtv_content_id=6093&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=c7804f2a-8e39-4625-9800-1f7b9ffed2c6&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6093&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1 tvg-name="Rakuten TV - Romance" group-title="Romance",Rakuten TV - Romance Movies
+https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6194&ads.rtv_channel_name=romance-rakuten-tv_uk&ads.rtv_content_id=6194&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=9475d944-0bed-49a9-8063-a2b361eb5ce7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6194&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1 tvg-name="Rakuten TV - Sci-fi" group-title="Sci-Fi",Rakuten TV - Sci-fi
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6241&ads.rtv_channel_name=sci-fi-rakuten-tv_uk&ads.rtv_content_id=6241&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=bc37b504-d2c1-4852-a19b-44b984d8df6e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6241&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1 tvg-name="Rakuten TV - Thrillers" group-title="Thriller",Rakuten TV - Thrillers
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_channel_id=6482&ads.rtv_channel_name=thriller-rakuten-tv_uk&ads.rtv_content_id=6482&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=e31ac232-5614-4988-a4e8-833deadfd6cd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6482&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1 tvg-name="Filmzie" group-title="Entertainment",Filmzie
+https://3bd25beecec04b169f33659a7739c10b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Filmzie/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=entertainment&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_content_id=3282&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=18b277f3-8dee-4dd5-9ef7-3f1ff528b739&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=592
+#EXTINF:-1 tvg-name="Sony One Dragons'" group-title="Entertainment",Sony One Dragons'
+https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony One Faves" group-title="Entertainment",Sony One Faves
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-name="Action TV" tvg-logo="https://siliconweb.com" group-title="Entertainment",Action TV Live
+https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_480p/chunks.m3u8
+#EXTINF:-1 tvg-name="MovieSphere Au" tvg-logo="https://siliconweb.com" group-title="Entertainment",MovieSphere Au
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/cb573d1a786c618a84cb3963cef34282847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae75e4d8b3aa2b1014d922943fa83439fd501b2d2d25b8317d322f74795c6f7dfd54287e4015293728aecdb5f581fa9a83bf8f955bfd6937929957f2d556c3a8cc1b2cd3ef702da21269cded8b6648561a652b586125b9601964b85258f2b8900b3f80cdac54137e9224bc6940c1b4883e0ae9ee9343ffd50f2b1e8c4726fdb8d7c9fcdc11fbb010e1aea8dfb068bd51c98b526c5bb6f5d1bc59350d1fbd8e7b9e0dc1ece64a2a285f4ce8bac52cd46a6243607d9c3a04746888478004f4445e2b754ca8fd55f0aaf2eec8f73db0912b5d78acc8a406b8a282c53e664d64c162ce2002c2db563a9c17c5b80285cd16e7de30e61c902dda83cf9a2ece00410bcca8817ac38a1e65c92be29815911754ef3fe2554400c5ad5ed6d027939e04df6dcc7e4385854b4b99db0901d68470a16540d99eba825c8d98e7a4b64b4394c577d1e139913c5298e503b6700fd5e82fc4724ff454b4bc1a8305a5669ecb8928995d9c741f53293f8f4372b344e70ff5421237dd8a28249f75b1a2d23bde1a0cee80d610fe8608d19ea3d1c4e4e4df7362e4946/139/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-name="Asian Crush" tvg-logo="https://siliconweb.com" group-title="Entertainment",Asian Crush
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1,animal-planet-us-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e4.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8?token=teFQC43Y-WoxkZcXF8Rxrg&expires=1780158733&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hbo-comedy-hd-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v18.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8?token=H3KNvCU6V2H3IzGP2sp7Rg&expires=1780158107&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,cartoon-network-usa-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v3.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=SBJ0THRXZFzrJoqit_-nHA&expires=1780158269&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,cinemax-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e2.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=ncXmwK2EEyqvlhw4J_uFnA&expires=1780158371&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,comedy-central-us-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v18.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8?token=SIfNCjuU2SdccuHKRjildw&expires=1780158496&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,cbs-sports-network-usa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=PD47T6bQCKzbTHIHF7GZnQ&expires=1780158565&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,chicago-sports-network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v13.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8?token=hso187_eDmWXMY5H6TSgIA&expires=1780158647&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,crime-investigation-network-usa-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v16.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8?token=zXddpIDhfoWjV-haRQnY9Q&expires=1780158838&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,destination-america
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v1.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8?token=I1rku9fYY3KmGzWkSFujsg&expires=1780158903&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,discovery-channel-us-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e2.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=ht53ZUFcgXL5KbXnLNVNBA&expires=1780158963&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,discovery-family-channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v3.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=2yG0-_f51HrDCviutd0L4Q&expires=1780159007&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,discovery-life-channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e2.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8?token=inEcsOzeH5zOrtIQaqBRZg&expires=1780159065&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,disney-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v15.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=BMfSGftDg3EIW1oTsi1hvg&expires=1780159120&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,disney-junior-usa-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v18.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8?token=QbIuFjNvPRp9veWMrJeruQ&expires=1780159179&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,disney-xd-usa-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e1.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=RTefJ878yHKZmwyoTsYpkQ&expires=1780159228&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,e-entertainment-usa-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v2.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8?token=_hZm8kFtoBdM3qNPJq-gfA&expires=1780159288&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v2.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=CceFmfCjUUr7JL9qOkeNrQ&expires=1780159574&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,fanduel-sports-indiana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e2.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8?token=aAFLsxRPMfAMeYHCsb0tGA&expires=1780159674&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,food-network-usa-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v15.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8?token=k37LUfBHWivK26R8IBi3YQ&expires=1780159755&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,fx-movie-channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e4.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8?token=AVHJMCNO4YUGvJUlPAApMg&expires=1780159814&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,fx-networks-east-coast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v3.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8?token=T3IeYUrA0ZP4Xt2mN0EiUA&expires=1780161062&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,fxx-usa-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e3.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8?token=Y1Rgn9DVLDEMrZj1905Zpw&expires=1780161128&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,fyi-usa-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v1.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8?token=AZ-BQnEGkUTaerJ2L-vvvQ&expires=1780161177&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hallmark-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v5.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8?token=ibskBdISEuRhajQbsMFpVA&expires=1780161238&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hallmark-family-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v17.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8?token=Wu5lDSYGBPgy__55nfv3aQ&expires=1780161287&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hallmark-mystery-eastern-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e1.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8?token=a_AqgXtIPewEaauPys3WLA&expires=1780161339&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hbo-comedy-hd-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e4.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8?token=AEmcY9s8KgtLaI1G-4qycQ&expires=1780161443&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hbo-family-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e1.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8?token=LwR6oV7hmEpYTkQTNTHVRw&expires=1780161525&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hbo-zone-hd-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e1.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8?token=MyIdiuS0m8vJGxKrHktdtQ&expires=1780161631&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,history-channel-us-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v1.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8?token=URKgHOMCwDq97AAgoIJrLw&expires=1780161691&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,independent-film-channel-us
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e1.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8?token=hxqs-RyX8G9_Z5ICSNZ5tw&expires=1780162246&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,investigation-discovery-usa-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v8.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8?token=0xorS-p3C64-gGtg7YonKg&expires=1780162310&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,lifetime-movies-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v13.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8?token=_YZlSKrCXQ4DPRLfnRBrNA&expires=1780162371&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,metv-toons-wjlp2-new-jersey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v13.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8?token=aTRjFsu_GA2J5yj-YLRx-w&expires=1780162501&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,metv-wjlp-new-jerseynew-york
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8?token=9cEmX6ancwJOsGWuFA6h5g&expires=1780162555&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,national-geographic-wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v12.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=VNIiisQQgSli1glSEUg-og&expires=1780162716&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,nba-tv-usa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=LUrtV265jz_OukBrx9JHWg&expires=1780162835&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,nick-jr-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e2.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=9yBYJGEQsu2PMzZcPvomnQ&expires=1780162929&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,nickelodeon-usa-east-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v4.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=Ug4r_Lkcaa9CS3_8KsJXeg&expires=1780162977&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,nicktoons-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e3.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8?token=8ixfDWVg6KHr3o3fdgRHsw&expires=1780163023&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,oprah-winfrey-network-usa-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v17.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8?token=hzKeLGDjleqP8I94cUKmZw&expires=1780163080&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,reelzchannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v13.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8?token=mRtsY8X1NoKY-FoaGgULCA&expires=1780163158&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v17.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8?token=uEiaR0kB1nuv8ysFR_Up_w&expires=1780163205&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,paramount-with-showtime-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v3.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8?token=RWQ6ZTaEXGj3OXkqa4Jclg&expires=1780163269&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,showtime-2-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v8.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8?token=YbATD74krW_fOuQfWsUb6w&expires=1780163375&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,syfy-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v1.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8?token=jDkKIMR8zL1jaHSGftUSnA&expires=1780163518&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tbs-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v4.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8?token=CRWtVxzFmqnb6MtOBUweQA&expires=1780163585&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,teennick-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v14.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8?token=vzuSYySGiMseEYhAZDyfeQ&expires=1780163636&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,the-cooking-channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v15.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=Si2Dr80WdMk85CEGq8H9Vw&expires=1780163681&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,the-weather-channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e1.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8?token=d0OXuOhe_Fg-wCEmd-v6Ag&expires=1780163822&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tlc-usa-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v18.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8?token=WuluwsP_RKF9f5n4rAkpNQ&expires=1780163870&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tmc-us-eastern-feed (MOVIE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v2.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8?token=NxCEC3E_z8GXeUI4WLdOdQ&expires=1780163917&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tnt-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e2.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=Qm12gfn27M6M8YAq_PaISg&expires=1780163999&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,travel-us-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v13.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=MyTYkC5BgbFZXlsOc_lAaQ&expires=1780164064&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,trutv-usa-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e2.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8?token=EXz-7fFt0g_HttaxbFIrWg&expires=1780164118&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tsn1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v2.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8?token=gsuKlRMlADfYVB6iy8qNIQ&expires=1780164186&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tsn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v12.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8?token=n7uqLOztmTGQ9QCVoN3F2A&expires=1780164240&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tsn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e3.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8?token=vCr5_BMIi_bOsZlRmredtg&expires=1780164298&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tsn4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v14.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8?token=pg56KyonR6-6hcq3A65dCw&expires=1780164338&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tsn5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v15.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8?token=Lb9dP-bVeZNbmWT37t171w&expires=1780164384&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,turner-classic-movies-usa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v1.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8?token=0kD78TzhEb1y851p6O_aGA&expires=1780164447&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,tv-land-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e1.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8?token=X5R4atrSsxWqIXzZHPUWoA&expires=1780164496&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,usa-network-east-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://k1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=b1JsJJ-abiywwIf8E8tVxw&expires=1780164601&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,ae-us-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v15.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8?token=KIoo0r9Y2F_CCt0aXjPJ9g&expires=1780168281&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,amc-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v17.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8?token=QVNV5EksU1Odx8FKT6b0Pw&expires=1780168370&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,american-heroes-channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v5.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8?token=HNdYPR3XRj-LAdCPZU6qKw&expires=1780168430&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,bbc-america-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e3.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=eYsCHpKGsva_OYciBvz2lw&expires=1780168491&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,bravo-usa-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v18.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8?token=xnXhQL6Nu-rOKtlu5OyQmQ&expires=1780168622&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,cmt-us-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v17.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8?token=s-VvKtJXzkFgMmlrTiDhLw&expires=1780168684&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,freeform-east-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v2.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8?token=uy1E3ABdBJLn5q-lm-DXJA&expires=1780168757&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,fuse-tv-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e4.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8?token=uFyySwLn2ao8TTMYA1jg_A&expires=1780168815&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,game-show-network-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v12.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8?token=q7L--f5UZXWEMV7Tz9w_6A&expires=1780168903&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hgtv-usa-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v15.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8?token=mkGegPGOExE7MjigP85mlw&expires=1780169337&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,lifetime-network-us-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v1.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8?token=Ntwkk156OuQjHU5bAGCg1A&expires=1780169442&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,logo-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v4.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8?token=2Tktb4WX4urUkFpZxEcq4A&expires=1780169520&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hbo-2-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v18.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8?token=EJY2UTSs9u5T6QG44PRLew&expires=1780169647&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,hbo-signature-hbo-3-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v4.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8?token=jHTMjmkfyNbauxRUGYkVOA&expires=1780170135&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,moremax-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v2.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8?token=rU2_wFIPewuBwEsrsEhwJA&expires=1780170237&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,moviemax-max-6-east
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v8.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8?token=1zJROsW1rWt9Lrv0s_u9aw&expires=1780170288&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,vh1-eastern-feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://e2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=kX6KUBWNa5fRzh492fA5KQ&expires=1780170609&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,we-womens-entertainment-eastern
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvpass.org/
+https://v8.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8?token=64SBXALIn1qcoeZmXGGq8w&expires=1780170688&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
