@@ -145,7 +145,7 @@ def get_permanent_channels(filename):
             is_dynamic = False
             if url_line:
                 url_lower = url_line.lower()
-                if any(x in url_lower for x in ["thetvapp.to", "tvpass.org", "jmp2.uk", "googlevideo.com", "youtube.com"]):
+                if any(x in url_lower for x in ["thetvapp.to", "tvpass.org", "jmp2.uk/plu-", "googlevideo.com", "youtube.com"]):
                     is_dynamic = True
             
             # Preserve permanent channels
