@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="american-heroes" tvg-name="American Heroes Channel" group-title="Documentary & Nature",American Heroes Channel
-https://v5.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8?token=HNdYPR3XRj-LAdCPZU6qKw&expires=1780168430&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+https://e3.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8?token=vpmgMhTorCQBYVkUikaKjw&expires=1780237726&user_id=WkpzcXBVTXN2UEJuZ3M0NDFpNEhlMG1sZFdJSlJvdG1pVWhFUGJQbQ==
 #EXTINF:-1 channel-id="animal-planet" tvg-id="animal-planet" tvg-chno="4038" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/animal-planet.png" group-title="Documentary & Nature",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet-east" tvg-name="Animal Planet East" group-title="Documentary & Nature",Animal Planet East
