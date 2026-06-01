@@ -143,18 +143,8 @@ http://41.205.93.154/ESPN/index.m3u8
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 channel-id="ufc" tvg-id="ufc" tvg-chno="4045" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/ufc.png" group-title="Sports",UFC
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
-#EXTINF:-1 channel-id="animal-planet" tvg-id="animal-planet" tvg-chno="4038" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/animal-planet.png" group-title="Documentary & Nature",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 channel-id="discovery-channel" tvg-id="discovery-channel" tvg-chno="4036" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/discovery-channel.png" group-title="Documentary & Nature",Discovery
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 channel-id="national-geographic" tvg-id="national-geographic" tvg-chno="4037" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/national-geographic.png" group-title="Documentary & Nature",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 channel-id="wild-earth" tvg-id="wild-earth" tvg-chno="4039" tvg-name="Wild Earth" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/wild-earth.png" group-title="Documentary & Nature",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 channel-id="fb8579bf16248ce630f42f129ed2e8d5" tvg-id="fb8579bf16248ce630f42f129ed2e8d5" tvg-chno="547" tvg-name="Acorn TV Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb8579bf16248ce630f42f129ed2e8d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761252500000_ACORNTV_MYSTERIES_hud_efefef_center_260x147_Bill_Watts.png" group-title="Entertainment",Acorn TV Mysteries
 https://jmp2.uk/rok-fb8579bf16248ce630f42f129ed2e8d5.m3u8
-#EXTINF:-1 tvg-name="Action TV" tvg-logo="https://siliconweb.com" group-title="Entertainment",Action TV Live
-https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_480p/chunks.m3u8
 #EXTINF:-1 tvg-name="Asian Crush" tvg-logo="https://siliconweb.com" group-title="Entertainment",Asian Crush
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1 channel-id="comedy-central" tvg-id="comedy-central" tvg-chno="4034" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/comedy-central.png" group-title="Entertainment",Comedy Central
