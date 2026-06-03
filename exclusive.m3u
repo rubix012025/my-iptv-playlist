@@ -221,16 +221,6 @@ https://jmp2.uk/rok-d79c47ebb9745dc4873f24d4c9fc68ce.m3u8
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
 #EXTINF:-1 channel-id="sony-one-comedy-hits-uk" tvg-id="sony-one-comedy-hits-uk" tvg-chno="4007" tvg-name="Sony One Comedy Hits UK" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sony-one-comedy-hits-uk.png" group-title="Movies",Sony One Comedy Hits UK
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 channel-id="sony-pix-hd" tvg-id="sony-pix-hd" tvg-chno="4050" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/sony-pix-hd.png" group-title="Movies",Sony Pix HD
-http://202.70.146.135:8000/play/a06p/index.m3u8
-#EXTINF:-1 channel-id="star-movies-hd" tvg-id="star-movies-hd" tvg-chno="4001" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/star-movies-hd.png" group-title="Movies",Star Movies HD
-http://202.70.146.135:8000/play/a06r/index.m3u8
-#EXTINF:-1 channel-id="star-movies-select-hd" tvg-id="star-movies-select-hd" tvg-chno="4002" tvg-name="Star Movies Select HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/star-movies-select-hd.png" group-title="Movies",Star Movies Select HD
-http://202.70.146.135:8000/play/a06q/index.m3u8
-#EXTINF:-1 channel-id="starz-hd" tvg-id="starz-hd" tvg-chno="4009" tvg-name="StarZ HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/starz-hd.png" group-title="Movies",StarZ HD
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 channel-id="starz-cinema" tvg-id="starz-cinema" tvg-chno="4010" tvg-name="StarZ" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/starz-cinema.png" group-title="Movies",StarZ
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 channel-id="7e202ec14b17515a8e732f662aec155d" tvg-id="7e202ec14b17515a8e732f662aec155d" tvg-chno="765" tvg-name="The Asylum" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7e202ec14b17515a8e732f662aec155d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687376542009_TheAsylum_260x147_copy.png" group-title="Movies",The Asylum
 https://jmp2.uk/rok-7e202ec14b17515a8e732f662aec155d.m3u8
 #EXTINF:-1 channel-id="thriller" tvg-id="thriller" tvg-chno="4021" tvg-name="Thriller" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/thriller.png" group-title="Movies",Thriller
