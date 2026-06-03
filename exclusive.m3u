@@ -145,22 +145,10 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
 #EXTINF:-1 channel-id="fb8579bf16248ce630f42f129ed2e8d5" tvg-id="fb8579bf16248ce630f42f129ed2e8d5" tvg-chno="547" tvg-name="Acorn TV Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb8579bf16248ce630f42f129ed2e8d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761252500000_ACORNTV_MYSTERIES_hud_efefef_center_260x147_Bill_Watts.png" group-title="Entertainment",Acorn TV Mysteries
 https://jmp2.uk/rok-fb8579bf16248ce630f42f129ed2e8d5.m3u8
-#EXTINF:-1 channel-id="cartoon-network" tvg-id="cartoon-network" tvg-chno="4049" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/cartoon-network.png" group-title="Kids & Family",Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 channel-id="disney-xd" tvg-id="disney-xd" tvg-chno="4042" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/disney-xd.png" group-title="Kids & Family",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 channel-id="kartoon-channel" tvg-id="kartoon-channel" tvg-chno="4048" tvg-name="Kartoon Channel" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/kartoon-channel.png" group-title="Kids & Family",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="cooking-channel" tvg-id="cooking-channel" tvg-chno="4035" tvg-name="Cooking" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/cooking-channel.png" group-title="Lifestyle & Leisure",Cooking
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1 channel-id="travel-channel" tvg-id="travel-channel" tvg-chno="4040" tvg-name="Travel" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/travel-channel.png" group-title="Lifestyle & Leisure",Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
-#EXTINF:-1 channel-id="24-hour-free-movies" tvg-id="24-hour-free-movies" tvg-chno="4012" tvg-name="24 Hour Free Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/24-hour-free-movies.png" group-title="Movies",24 Hour Free Movies
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-#EXTINF:-1 tvg-id="673499" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",CINEVAULT
-https://live-manifest.production-public.tubi.io/live/15fe77d7-34df-4384-8180-8c30103139a4/playlist.m3u8
-#EXTINF:-1 tvg-id="400000090" tvg-logo="https://canvas-lb.tubitv.com/opts/yTUdTHkxF1KzGQ==/9d6112c8-c0fb-4179-aa34-4025c0153b14/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",Crime ThrillHer
-https://live-manifest.production-public.tubi.io/live/2bd0df23-4a14-46ca-b598-0e7895ebbeee/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Free Movies" group-title="Movies",FilmRise Free Movies
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992272&ads.xumo_streamId=99992272&ads.channelId=99992272&ads.ad_tag_id=10508&ads.csid=lgchannels_us_filmrisefreemovies_ssai&ads.channelName=filmrisefreemovies_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-5&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 channel-id="6a0629e467b5502c906136dadac290a0" tvg-id="6a0629e467b5502c906136dadac290a0" tvg-chno="768" tvg-name="FilmRise Horror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774448513257_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png" group-title="Movies",FilmRise Horror
