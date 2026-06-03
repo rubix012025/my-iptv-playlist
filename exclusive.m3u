@@ -157,14 +157,6 @@ https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8
 https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8
 #EXTINF:-1 tvg-name="Gravitas Movies" group-title="Movies",Gravitas Movies
 https://jmp2.uk/stvp-USBD700011RE
-#EXTINF:-1 channel-id="hbo" tvg-id="hbo" tvg-chno="4046" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/hbo.png" group-title="Movies",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 channel-id="hbo2" tvg-id="hbo2" tvg-chno="4047" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/hbo2.png" group-title="Movies",HBO2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-id="400000104" tvg-logo="https://canvas-lb.tubitv.com/opts/xP0esskgVLQXMA==/2733aed8-2c07-4221-9669-061ef85c0df0/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",Hersphere
-https://live-manifest.production-public.tubi.io/live/33df563a-88ee-46d9-9cc1-3459f2e90710/playlist.m3u8
-#EXTINF:-1 tvg-name="Hi-Yah!" group-title="Movies",Hi-Yah!
-https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=99992284a&ads.xumo_streamId=99992284&ads.channelId=99992284&ads.csid=lgchannels_us_hiyah_ssai&ads.caid=HiYah&ads.channelName=hiyah_us&ads._fw_coppa=0&ads.xumo_contentName=HiYah&ads.xumo_contentId=236&ads._fw_content_rating=TV-14&ads.xumo_providerName=HiYah&ads.xumo_providerId=236&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movie,Movies,Action,FF,Drama,GD&ads._fw_content_language=en&ads.xumo_imdb_genre=Action&ads.amznappId=51a04667c92e45fd94bae191cb9c6e16&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]
 #EXTINF:-1 channel-id="icon-film" tvg-id="icon-film" tvg-chno="4016" tvg-name="Icon Film" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/icon-film.png" group-title="Movies",Icon Film
 https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
 #EXTINF:-1 channel-id="lg1-film" tvg-id="lg1-film" tvg-chno="4029" tvg-name="LG1 Film" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/lg1-film.png" group-title="Movies",LG1 Film
@@ -215,10 +207,6 @@ https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
 #EXTINF:-1 tvg-name="Xumo Free Action Movies" group-title="Movies",Xumo Free Action Movies
 https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992286&ads.xumo_streamId=99992286&ads.channelId=99992286&ads.csid=lgchannels_us_xumofreeactionmovies_ssai&ads.caid=XumoFreeActionMovies&ads.channelName=xumofreeactionmovies_us&ads._fw_coppa=0&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads._fw_content_rating=tv-14&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Movies&ads._fw_content_language=en&ads.xumo_imdb_genre=Action&ads.amznappId=51a04667c92e45fd94bae191cb9c6e16&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]
-#EXTINF:-1 channel-id="espn" tvg-id="espn" tvg-chno="4043" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/espn.png" group-title="Sports",ESPN
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 channel-id="espnu" tvg-id="espnu" tvg-chno="4044" tvg-name="ESPNU" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/espnu.png" group-title="Sports",ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 channel-id="ufc" tvg-id="ufc" tvg-chno="4045" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/ufc.png" group-title="Sports",UFC
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
 #EXTINF:-1,animal-planet-us-east
